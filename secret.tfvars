@@ -1,0 +1,2 @@
+access = "AKIAWJKE7QHXHWIR35SX"
+secret = "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"
